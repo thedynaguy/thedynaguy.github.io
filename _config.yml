@@ -1,15 +1,15 @@
 # Site settings
-title: bionicBUG
+title: Dynaguy
 description: My personal page :)
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Ojas Sinha
+username: Dynaguy
 user_description: Self taught coder. Android entusiast. Cyber-Sec Entusiast. Basically I love everything related to computers and phones.
-user_title: Android Developer, Programmer
-email: ojasbionic@gmail.com
-github_username:  bionicBUG
+user_title: Android Developer, Publisher
+email: thedynaguy@gmail.com
+github_username:  TheDynaguy
 
 
 # Google-analytics
